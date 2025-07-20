@@ -1,6 +1,6 @@
 #EXTM3U
 #地デジ
-#EXTINF:-1 group-title="地デジ" tvg-id="nhkg_Kobe" tvg-logo="https://192-168-100-10.local.konomi.tv:7000/api/channels/gr011/logo", "011 NHK総合1・東京"
-https://100-125-1-43.local.konomi.tv:7000/api/streams/live/gr011/1080p/mpegts
-#EXTINF:-1 group-title="地デジ" tvg-id="nhke_Osaka" tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/gr021/logo", "021 NHKEテレ1東京"
+#EXTINF:-1 group-title="地デジ" tvg-id="nhkg_Kobe" tvg-logo="https://192-168-100-10.local.konomi.tv:7000/api/channels/gr011/logo", "011 NHK総合1・神戸"
+https://192-168-100-10.local.konomi.tv:7000/api/streams/live/gr011/1080p/mpegts
+#EXTINF:-1 group-title="地デジ" tvg-id="nhke_Osaka" tvg-logo="https://192-168-100-10.local.konomi.tv:7000/api/channels/gr021/logo", "021 NHKEテレ1・大阪"
 https://192-168-100-10.local.konomi.tv:7000/api/streams/live/gr021/1080p/mpegts
