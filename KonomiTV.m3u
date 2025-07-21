@@ -47,13 +47,13 @@ https://100-125-1-43.local.konomi.tv:7000/api/streams/live/bs222/1080p/mpegts
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/bs231/1080p/mpegts
 #EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs234/logo",234 グリーンチャンネル
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/bs234/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs242/logo",242 J SPORTS 
+#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs242/logo",242 J SPORTS 1
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/bs242/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs243/logo",243 J SPORTS 
+#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs243/logo",243 J SPORTS 2
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/bs243/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs244/logo",244 J SPORTS 
+#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs244/logo",244 J SPORTS 3
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/bs244/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs245/logo",245 J SPORTS 
+#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs245/logo",245 J SPORTS 4
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/bs245/1080p/mpegts
 #EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/bs252/logo",252 WOWOWプラス
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/bs252/1080p/mpegts
@@ -99,13 +99,13 @@ https://100-125-1-43.local.konomi.tv:7000/api/streams/live/cs293/1080p/mpegts
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/cs294/1080p/mpegts
 #EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs295/logo",295 MONDO TV
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/cs295/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs296/logo",296 TBSチャンネル
+#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs296/logo",296 TBSチャンネル 1
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/cs296/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs297/logo",297 TBSチャンネル
+#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs297/logo",297 TBSチャンネル 2
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/cs297/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs298/logo",298 テレ朝チャンネル
+#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs298/logo",298 テレ朝チャンネル 1
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/cs298/1080p/mpegts
-#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs299/logo",299 テレ朝チャンネル
+#EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs299/logo",299 テレ朝チャンネル 2
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/cs299/1080p/mpegts
 #EXTINF:-1 tvg-logo="https://100-125-1-43.local.konomi.tv:7000/api/channels/cs300/logo",300 日テレプラス
 https://100-125-1-43.local.konomi.tv:7000/api/streams/live/cs300/1080p/mpegts
